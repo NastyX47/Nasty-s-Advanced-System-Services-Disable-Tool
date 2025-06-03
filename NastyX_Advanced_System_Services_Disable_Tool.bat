@@ -1,5 +1,5 @@
 @echo off
-color B
+color 2
 set "HIVE=SYSTEM\CurrentControlSet"
 
 taskkill /f /im ctfmon.exe
